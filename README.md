@@ -14,9 +14,6 @@ using Coulomb's Law and the Superposition Principle.
 - Python
 - NumPy
 - Matplotlib
-- ReportLab
 
-## How to Run
 
-```bash
-python electric_field.py
+
